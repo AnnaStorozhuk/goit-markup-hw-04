@@ -629,10 +629,12 @@ img {
   padding-top: 94px;
   padding-bottom: 94px;
 }
+
 .clients {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 50px;
 }
 
 .box-clients {
@@ -652,6 +654,7 @@ img {
   border-color: var(--hover-focus);
   fill: var(--hover-focus);
 }
+
 /* 
 .svg-clients {
   display: flex;
